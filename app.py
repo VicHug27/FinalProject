@@ -20,4 +20,4 @@ def my_tableau_page():
 @app.route("/texas")
 def texascovid():
     # return "<p>Hello, World!</p>"
-    return current_app.send_static_file('pages/texas.html')
+    return current_app.send_static_file('pages/texas2.html')
