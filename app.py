@@ -10,7 +10,7 @@ if __name__ == "__main__":
 
 @app.route("/")
 def mhomepage():
-    return current_app.send_static_file('pages/index.html')
+    return current_app.send_static_file('pages/tableautest.html')
 
 @app.route("/tableau")
 def my_tableau_page():
