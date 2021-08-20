@@ -21,5 +21,5 @@ Vaccine Adverse Event Reporting System (VAERS)
 Submissions for vaccine side effects (self-reported)
 Note: submissions for 2021 were more than all prior years combined since 1990!
 
-
+*COVID New Cases and Death csv too large to upload to Github but accessible via data.world
 ---------------------------------------------------------
