@@ -1,6 +1,6 @@
 FINAL PROJECT ON COVID ANALYSIS
 
-VIEW AT https://covid19-smu.herokuapp.com/ 
+VIEW AT (https://public.tableau.com/app/profile/vickie.hughes/viz/Covid19ProjectR3/USMap)
 
 Analysis & Visualizations:
 COVID19 Confirmed Cases, Deaths and Vaccinations 2020-2021
